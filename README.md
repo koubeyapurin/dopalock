@@ -1,7 +1,18 @@
 # DopaLock デモアプリ
 
 スマホを触らない時間を「レート・DP・友達バトル・店舗利用特典」に変える、大学生向けのスマホ封印型自習サービス **DopaLock** の体験デモです。
-LEVEL UP STAGE 2026 の面接審査で、サービス体験を伝えるためのプロトタイプです。
+ビジネスコンテスト **LEVEL UP STAGE 2026** に個人で応募し、**書類審査を通過してオンライン面接審査に進んだとき**に、サービスの体験を伝えるために作ったプロトタイプです。
+【要確認】サービスの設計は森平(koubeyapurin)が行い、実装は AI(Claude Code など)に仕様([docs/SPEC.md](docs/SPEC.md))を渡して作りました。
+
+## デモ
+
+https://koubeyapurin.github.io/dopalock/
+
+## 大会について
+
+多摩信用金庫・株式会社町田新産業創造センター・株式会社AGORA の3社が共催する事業支援型ビジネスコンテスト「LEVEL UP STAGE 2026」に個人で応募し、書類審査を通過してオンライン面接審査に進んだときのデモです。このコンテストは、選考の途中で「レベルアッププログラム」(連続講義・メンタリング)を受けながら事業プランを磨き、最終選考会(2026年11月10日)でプレゼン審査をする形です。
+
+- 公式ページ: https://www.levelupstage.com/ / 2026 の告知: https://www.levelupstage.com/post/20260507-1
 
 ## 技術スタック
 React + TypeScript / Vite / Tailwind CSS / react-router-dom / lucide-react / recharts / localStorage
